@@ -1,1 +1,1 @@
-it is  displaying ht content
+changing to working directory to the user
